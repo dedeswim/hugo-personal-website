@@ -10,7 +10,7 @@ env:
   - GH_REPO="github.com/${USER}/${REPO}.git"
 
 after_success:
-  - MESSAGE=$(git log --format=%B -n 1 $TRAVIS_COMMIT)
+  - MESSAGE=$('Commit with Travis CI')
   - git clone git://${GH_REPO}
   - cp -f ${FILES} ${REPO}
   - cd ${REPO}
@@ -19,7 +19,7 @@ after_success:
   - git config user.email ${EMAIL}
   - git config user.name ${DEPLOYMENT_USER}
   - git add .
-  - git commit -m ${'MESSAGE'}
+  - git commit -m ${MESSAGE}
   - git push "https://${GITHUB_TOKEN}@${GH_REPO}" master
 
 install:
