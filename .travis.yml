@@ -10,7 +10,7 @@ env:
   - GH_REPO="github.com/${USER}/${REPO}.git"
 
 after_success:
-  - MESSAGE=$('Commit with Travis CI')
+  - MESSAGE='Commit with Travis CI'
   - git clone git://${GH_REPO}
   - cp -f ${FILES} ${REPO}
   - cd ${REPO}
