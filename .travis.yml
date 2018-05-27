@@ -12,7 +12,7 @@ env:
 after_success:
   - MESSAGE='Commit with Travis CI'
   - git clone git://${GH_REPO}
-  - cp -f ${FILES} ${REPO}
+  - cp -f -r ${FILES} ${REPO}
   - cd ${REPO}
   - ls
   - git remote
