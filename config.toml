@@ -12,7 +12,8 @@ canonifyURLS = true
     info = "Computer Engineering student" # author's job title or info
     description = "Edoardo Debenedetti's personal website" # site description
     keywords = "blog,developer,personal,portfolio" # site keywords
-
+    homeImagePath = "res/img/great-wall.jpg"
+    
     # wether you want to hide copyright and credits in the footer
     hideCredits = true
     hideCopyright = false
