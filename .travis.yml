@@ -12,8 +12,9 @@ env:
 after_success:
   - MESSAGE='Commit with Travis CI'
   - git clone git://${GH_REPO}
-  - cp -f -r ${FILES} ${REPO}
   - cd ${REPO}
+  - rm -rf `ls | grep -v 'md$' | grep -v '.git'`
+  - cp -f -r ../${FILES} ./
   - ls
   - git remote
   - git config user.email ${EMAIL}
