@@ -8,7 +8,8 @@ canonifyURLS = true
 
 [params] # theme parameters
     author = "edoardo_debenedetti" # author's name
-    info = "Student, Junior Entrepreneur, Tech Enthusiast" # author's job title or info
+    copyrightName = "Edoardo Debenedetti"
+    info = "Computer Engineering student" # author's job title or info
     description = "Edoardo Debenedetti's personal website" # site description
     keywords = "blog,developer,personal,portfolio" # site keywords
 
