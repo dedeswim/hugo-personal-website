@@ -461,3 +461,7 @@ img {
 .float-left {
     float: left
 }
+
+.post nav {
+    display: none;
+}
