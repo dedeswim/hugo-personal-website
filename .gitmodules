@@ -1,9 +1,6 @@
 [submodule "themes/osprey"]
 	path = themes/osprey
 	url = https://github.com/tomanistor/osprey.git
-[submodule "public"]
-	path = public
-	url = https://github.com/dedeswim/dedeswim.github.io
 [submodule "themes/coder"]
 	path = themes/coder
 	url = https://github.com/luizdepra/hugo-coder
