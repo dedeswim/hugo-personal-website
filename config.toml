@@ -9,6 +9,7 @@ canonifyURLS = true
 [params] # theme parameters
     author = "edoardo_debenedetti" # author's name
     copyrightName = "Edoardo Debenedetti"
+    copyrightEmail = "[edoardo.m.debenedetti[at]gmail[dot]com](mailto:edoardo.m.debenedetti@gmail.com)"
     info = "Computer Engineering student" # author's job title or info
     description = "Edoardo Debenedetti's personal website" # site description
     keywords = "blog,developer,personal,portfolio" # site keywords
@@ -24,13 +25,13 @@ canonifyURLS = true
     weight = 1
     url = "https://github.com/dedeswim/"
 [[params.social]]
-    name = "Twitter"
-    weight = 2
-    url = "https://twitter.com/edoardo_debe/"
-[[params.social]]
     name = "LinkedIn"
     weight = 3
     url = "https://www.linkedin.com/in/edoardo-debenedetti/"
+[[params.social]]
+    name = "Instagram"
+    weight = 2
+    url = "http://instagram.com/edoardo.debenedetti"
 
 # Menu links
 [[menu.main]]
@@ -41,3 +42,7 @@ canonifyURLS = true
     name = "About"
     weight = 2
     url = "/about/"
+[[menu.main]]
+    name = "Pindery"
+    weight = 2
+    url = "https://aeeooto.github.io/pindery"
