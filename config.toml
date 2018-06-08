@@ -19,6 +19,7 @@ canonifyURLS = true
     # wether you want to hide copyright and credits in the footer
     hideCredits = true
     hideCopyright = false
+
     
 # Social links
 [[params.social]]
