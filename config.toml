@@ -10,10 +10,11 @@ canonifyURLS = true
     author = "edoardo_debenedetti" # author's name
     copyrightName = "Edoardo Debenedetti"
     copyrightEmail = "[edoardo.m.debenedetti[at]gmail[dot]com](mailto:edoardo.m.debenedetti@gmail.com)"
-    info = "Computer Engineering student" # author's job title or info
+    info = "Computer Engineering B.Sc. student" # author's job title or info
     description = "Edoardo Debenedetti's personal website" # site description
     keywords = "blog,developer,personal,portfolio" # site keywords
     homeImagePath = "res/img/great-wall.jpg"
+    sub = "(Yes, I like underscores)"
     
     # wether you want to hide copyright and credits in the footer
     hideCredits = true
