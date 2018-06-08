@@ -1,6 +1,6 @@
 <footer class="footer">
   <section class="container">
     {{ if not .Site.Params.hideCopyright }} © {{ .Site.LastChange.Format "2006" }} - {{.Site.Params.copyrightName | markdownify }} {{ end }} {{ if not .Site.Params.hideCredits}} {{ if not .Site.Params.hideCopyright }} · {{ end }} Powered by <a href="https://gohugo.io/">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/">Coder</a>. {{ end }}
-    <div class="email">{{ with .Site.Params.copyrightEmail }}{{ . | markdownify }}{{ end }}</div>
+    {{ with .Site.Params.footerEmail }}- <a href="mailto:{{ . }}"><script type="text/javascript">document.write('{{ . }}')</script></a>{{ end }}
   </section>
 </footer>
