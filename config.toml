@@ -15,6 +15,7 @@ canonifyURLS = true
     keywords = "blog,developer,personal,portfolio" # site keywords
     homeImagePath = "res/img/great-wall.jpg"
     sub = "(Yes, I like underscores)"
+    color = "#01579b"
     
     # wether you want to hide copyright and credits in the footer
     hideCredits = true
