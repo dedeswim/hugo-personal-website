@@ -15,6 +15,7 @@ canonifyURLS = true
     homeImagePath = "res/img/great-wall.jpg"
     sub = "(Yes, I like underscores)"
     color = "#01579b"
+    google_analytics = "UA-120570930-2"
     
     # wether you want to hide copyright and credits in the footer
     hideCredits = true
