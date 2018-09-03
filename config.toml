@@ -46,6 +46,10 @@ canonifyURLS = true
     weight = 2
     url = "/about/"
 [[menu.main]]
+    name = "CV"
+    weight = 2
+    url = "/cv_edoardo_debenedetti.pdf"
+[[menu.main]]
     name = "Pindery"
     weight = 2
     url = "https://aeeooto.github.io/pindery"
