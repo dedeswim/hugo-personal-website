@@ -1,12 +1,17 @@
 ---
-title: "About"
+title: "About Me"
 date: 2018-05-26T10:19:26+08:00
 draft: false
 ---
 
-**Computer Engineering** student at [**Polytechnic of Turin**](https://www.polito.it),  proudly Junior  Entrepreneur at [**JEToP**](https://jetop.com), the Polytechnic of Turin's Junior Enterprise, as  **IT Consultant**, "F. Morosini" Naval College alumnus. Exchanging at [**Tongji University**](https://www.tongji.edu.cn) in Shanghai, as winner of the PoliTong  **scholarship**. Tech enthusiast, dreaming to become an AI Engineer. Swimming, sailing and travel addicted. I like to call myself a *beta tester*.
+I am a **Computer Engineering** student at [**Polytechnic of Turin**](https://www.polito.it),  proudly Junior  Entrepreneur at [**JEToP**](https://jetop.com), the Polytechnic of Turin's Junior Enterprise, as  **IT Consultant**, "F. Morosini" Naval College alumnus. I spent last year as an exchange student at [**Tongji University**](https://www.tongji.edu.cn) in Shanghai, as winner of the PoliTong  **scholarship**. I am a tech enthusiast, dreaming to become an AI Engineer, interested in research about optimization and security in/with ML. I am also swimming, sailing and travel addicted. I like to call myself a *beta tester*.
 
-Looking for an internship for the 2018-19 Academic Year.
+You can find my **CV** (last updated on 2018/12/15) [here](/cv.pdf).
+
+### Work Experience
+##### Blue Reply (part of [**Reply**](https://en.wikipedia.org/wiki/Reply_(company)) Group) - **RPA Intern**, 2018-11 -> present
+Having been assigned an **R&D** task, I am the ﬁrst in the ﬁrm to work on Robotic Process Automation and Intelligent Process Automation, exploiting Natural Language Processing techniques to **automate** routine processes.
+
 
 {{% contact-form "dedeswim@gmail.com" %}}
 
