@@ -10,7 +10,7 @@ env:
   - GH_REPO="github.com/${USER}/${REPO}.git"
 
 after_success:
-  - MESSAGE='Commit with Travis CI'
+  - MESSAGE=$(git log -1 --pretty=%B)
   - git clone git://${GH_REPO}
   - cd ${REPO}
   - rm -rf `ls | grep -v 'md$' | grep -v '.git' | grep -v 'CNAME'`
@@ -20,11 +20,11 @@ after_success:
   - git config user.email ${EMAIL}
   - git config user.name ${DEPLOYMENT_USER}
   - git add .
-  - git commit -m 'Commit with Travis CI'
+  - git commit -m '$MESSSAGE'
   - git push "https://${GITHUB_TOKEN}@${GH_REPO}" master
 
 install:
-    - wget https://github.com/gohugoio/hugo/releases/download/v0.51/hugo_0.51_Linux-64bit.deb
+    - wget https://github.com/gohugoio/hugo/releases/download/v0.52/hugo_0.52_Linux-64bit.deb
     - sudo dpkg -i hugo*.deb
     - pip install Pygments
 
