@@ -4,7 +4,7 @@ date: 2018-05-26T10:19:26+08:00
 draft: false
 ---
 
-I am a **Computer Engineering** student at [**Polytechnic of Turin**](https://www.polito.it),  proudly Junior  Entrepreneur at [**JEToP**](https://jetop.com), the Polytechnic of Turin's Junior Enterprise, as  **IT Consultant**, "F. Morosini" Naval College alumnus. I spent last year as an exchange student at [**Tongji University**](https://www.tongji.edu.cn) in Shanghai, as winner of the PoliTong  **scholarship**. I am a tech enthusiast, dreaming to become an AI Engineer, interested in research about optimization and security in/with ML. I am also swimming, sailing and travel addicted. I like to call myself a *beta tester*.
+I am a **Computer Engineering** student at [**Polytechnic of Turin**](https://www.polito.it),  proudly Executive Board member at [**JEToP**](https://jetop.com), the Polytechnic of Turin's Junior Enterprise, as  **International Manager**, responsible for responsible for public relations and partnerships, "F. Morosini" Naval College alumnus. I spent last year as an exchange student at [**Tongji University**](https://www.tongji.edu.cn) in Shanghai, as winner of the PoliTong  **scholarship**. I am a tech enthusiast, dreaming to become an AI Engineer, interested in research about optimization and security in/with ML. I am also swimming, sailing and travel addicted. I like to call myself a *beta tester*.
 
 You can find my **CV** (last updated on 2018/12/15) [here](/cv.pdf).
 
