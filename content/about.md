@@ -6,7 +6,7 @@ draft: false
 
 I am a **Computer Engineering** student at [**Polytechnic of Turin**](https://www.polito.it),  proudly Executive Board member at [**JEToP**](https://jetop.com), the Polytechnic of Turin's Junior Enterprise, as  **International Manager**, responsible for public relations and partnerships, [**"F. Morosini" Military Naval School**](http://www.marina.difesa.it/EN/training_institute/morosini/Pagine/default.aspx) alumnus. I spent last year as an exchange student at [**Tongji University**](https://www.tongji.edu.cn) in Shanghai, as winner of the PoliTong  **scholarship**. I am a tech enthusiast, dreaming to become an **AI Engineer**, interested in research about **optimization and security in/with ML**. I am also swimming, sailing, and travel addicted. I like to call myself a *beta tester*.
 
-You can find my **CV** (last updated on 2018/12/15) [here](/cv.pdf). If you want to contact me, use the form [below](/about/#form-contact).
+You can find my **CV** (last updated on 2018/12/16) [here](/cv.pdf). If you want to contact me, use the form [below](/about/#form-contact).
 
 ### Work Experience
 ##### Blue Reply (part of [**Reply**](https://en.wikipedia.org/wiki/Reply_(company)) Group) - **RPA Intern**, 2018-11 -> present
