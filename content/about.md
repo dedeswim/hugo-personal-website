@@ -11,7 +11,7 @@ I spent last year as an exchange student at [**Tongji University**](https://www.
 
 I am a tech enthusiast, dreaming to become an **AI Engineer**, interested in research about **optimization and security in/with ML**. I am also swimming, sailing, and travel addicted. I like to call myself a *beta tester*.
 
-You can find my **CV** (last updated on 2018/12/16) [here](/cv.pdf). If you want to get in touch with me, use the form [below](/about/#form-contact).
+You can find my **CV** (last updated on 2018/12/30) [here](/cv.pdf). If you want to get in touch with me, use the form [below](/about/#form-contact).
 
 ### Work Experience
 ##### Blue Reply - **RPA Intern**, 2018-11 -> present
