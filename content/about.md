@@ -9,7 +9,7 @@ I am a **Computer Engineering** student at [**Polytechnic of Turin**](https://ww
 At the moment I am interning at the IT Consulting firm Blue Reply, part of part of [**Reply**](https://en.wikipedia.org/wiki/Reply_(company)) Group.
 I spent last year as an exchange student at [**Tongji University**](https://www.tongji.edu.cn) in Shanghai, taking part in [PoliTong](https://www.polito.it/international/offerta/percorsi/politong/index.php?lang=en) project.
 
-I am a tech enthusiast, dreaming to become an **AI Engineer**, interested in research about **optimization and security in/with ML**. I am also swimming, sailing, and travel addicted. I like to call myself a *beta tester*.
+I am a tech enthusiast, working hard to become an **AI Research Scientist**, interested in research about **optimization and security in/with ML**. I am also swimming, sailing, and travel addicted. I like to call myself a *beta tester*.
 
 You can find my **CV** (last updated on 2018/12/30) [here](/cv.pdf). If you want to get in touch with me, use the form [below](/about/#form-contact).
 
