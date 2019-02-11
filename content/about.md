@@ -11,13 +11,16 @@ I spent last year as an exchange student at [**Tongji University**](https://www.
 
 I am a tech enthusiast, working hard to become an **AI Research Scientist**, interested in research about **optimization and security in/with ML**. I am also swimming, sailing, and travel addicted. I like to call myself a *beta tester*.
 
-You can find my **CV** (last updated on 2019/1/29) [here](/cv.pdf). If you want to get in touch with me, use the form [below](/about/#form-contact).
+You can find my **CV** (last updated on 2019/2/11) [here](/cv.pdf). If you want to get in touch with me, use the form [below](/about/#form-contact).
 
 ### Work Experience
+
 ##### Blue Reply - **RPA Intern**, 2018-11 -> present
+
 Having been assigned an **R&D** task, I am the ﬁrst in the ﬁrm to work on Robotic Process Automation and Intelligent Process Automation, exploiting Natural Language Processing techniques to **automate** routine processes, working on a project for a major Italian insurance company.
 
 ### Awards
+
 - **PoliTong Scholarship**, 2017 - Scholarship that supported a one-year exchange at Tongji University, issued by both Politecnico ad Tongji University.
 - **Distintivo d'Onore**, 2015 - *Badge of honor*, awarded by the Naval Military School to the students (top 10%) that stand out in school, sports and have an excellent disciplinary profile. 
 - **Distintivo Marinaresco**, 2015 - *Naval badge*, awarded to the students who show an excellent attitude in nautical sports (8% of the course).
