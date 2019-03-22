@@ -6,7 +6,7 @@ draft: false
 
 I am a **Computer Engineering** student at [**Polytechnic of Turin**](https://www.polito.it),  proudly Executive Board member at [**JEToP**](https://jetop.com), the Polytechnic of Turin's Junior Enterprise, as  **International Manager**, responsible for public relations and partnerships, [**"F. Morosini" Military Naval School**](http://www.marina.difesa.it/EN/training_institute/morosini/Pagine/default.aspx) alumnus.
 
-At the moment I am interning at the IT Consulting firm Blue Reply, part of part of [**Reply**](https://en.wikipedia.org/wiki/Reply_(company)) Group.
+I interned at the IT Consulting firm Blue Reply, part of part of [**Reply**](https://en.wikipedia.org/wiki/Reply_(company)) Group, working on RPA and on the development of a chatbot.
 I spent last year as an exchange student at [**Tongji University**](https://www.tongji.edu.cn) in Shanghai, taking part in [PoliTong](https://www.polito.it/international/offerta/percorsi/politong/index.php?lang=en) project.
 
 I am a tech enthusiast, working hard to become an **AI Research Scientist**, interested in research about **optimization and security in/with ML**. I am also swimming, sailing, and travel addicted. I like to call myself a *beta tester*.
