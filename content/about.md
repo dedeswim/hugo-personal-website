@@ -15,9 +15,11 @@ You can find my **CV** (last updated on 2019/2/11) [here](/cv.pdf). If you want 
 
 ### Work Experience
 
-##### Blue Reply - **RPA Intern**, 2018-11 -> present
+##### Blue Reply - **RPA Intern**, 2018-11 -> 2019-03
 
-Having been assigned an **R&D** task, I am the ﬁrst in the ﬁrm to work on Robotic Process Automation and Intelligent Process Automation, exploiting Natural Language Processing techniques to **automate** routine processes, working on a project for a major Italian insurance company.
+Reply is one of the top IT consulting groups in Italy, with an €880m+ revenue. I have interned at Blue Reply, Reply's company that offers IBM based solution.
+Having been assigned an **R&D** task, I have been the ﬁrst in the ﬁrm to work on **Robotic Process Automation** and Intelligent Process Automation. I have worked with Automation Anywhere and Python library Automagica.
+I have also realized a **chatbot** developed with IBM Watson Assistant, TypeScript, Redis, MongoDB and Docker.
 
 ### Awards
 
