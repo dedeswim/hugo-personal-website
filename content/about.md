@@ -11,15 +11,15 @@ I spent last year as an exchange student at [**Tongji University**](https://www.
 
 I am a tech enthusiast, working hard to become an **AI Research Scientist**, interested in research about **optimization and security in/with ML**. I am also swimming, sailing, and travel addicted. I like to call myself a *beta tester*.
 
-You can find my **CV** (last updated on 2019/2/11) [here](/cv.pdf). If you want to get in touch with me, use the form [below](/about/#form-contact).
+You can find my **CV** (last updated on 2019/4/16) [here](/cv.pdf). If you want to get in touch with me, use the form [below](/about/#form-contact).
 
 ### Work Experience
 
 ##### Blue Reply - **RPA Intern**, 2018-11 -> 2019-03
 
-Reply is one of the top IT consulting groups in Italy, with an €880m+ revenue. I have interned at Blue Reply, Reply's company that offers IBM based solution.
+Reply is one of the top IT consulting groups in Italy, with a 1b+ € revenue in 2018. I have interned at Blue Reply, Reply's company that offers IBM based solution.
 Having been assigned an **R&D** task, I have been the ﬁrst in the ﬁrm to work on **Robotic Process Automation** and Intelligent Process Automation. I have worked with Automation Anywhere and Python library Automagica.
-I have also realized a **chatbot** developed with IBM Watson Assistant, TypeScript, Redis, MongoDB and Docker.
+I have also realized a **chatbot** developed with IBM Watson Assistant, TypeScript, Redis, MongoDB and Docker. The report I wrote about the internship can be found [here](/internship_report.pdf).
 
 ### Awards
 
