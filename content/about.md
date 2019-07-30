@@ -4,6 +4,8 @@ date: 2018-05-26T10:19:26+08:00
 draft: false
 ---
 
+<img src="res/img/me.png" alt="Picture of me" class="centered" heigth=256 width=256>
+
 I am an incoming **Computer Science** student at [**École polytechnique fédérale de Lausanne**](https://epfl.ch), willing to focus my studies on Machine Learning. I earned a Computer Engineering B.Sc. at the [**Polytechnic of Turin**](https://www.polito.it), with a 110 /110 final graduation mark, the maximum, being in the top <9%, and a 29.8 /30 final year GPA.
 
 I interned at the IT Consulting firm Blue Reply, part of [**Reply**](https://en.wikipedia.org/wiki/Reply_(company)) Group, working on RPA and on the development of a chatbot.
