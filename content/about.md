@@ -6,7 +6,7 @@ draft: false
 
 <img src="res/img/me.png" alt="Picture of me" class="centered" heigth=256 width=256>
 
-I am an incoming **Computer Science** student at [**École polytechnique fédérale de Lausanne**](https://epfl.ch), willing to focus my studies on Machine Learning. I earned a Computer Engineering B.Sc. at the [**Polytechnic of Turin**](https://www.polito.it), with a 110 /110 final graduation mark, the maximum, being in the top <9%, and a 29.8 /30 final year GPA.
+I am a **Computer Science** M.Sc. student at [**École polytechnique fédérale de Lausanne**](https://epfl.ch), willing to focus my studies on Machine Learning. I earned a Computer Engineering B.Sc. at the [**Polytechnic of Turin**](https://www.polito.it), with a 110 /110 final graduation mark, the maximum, being in the top <9%, and a 29.8 /30 final year GPA.
 
 I interned at the IT Consulting firm Blue Reply, part of [**Reply**](https://en.wikipedia.org/wiki/Reply_(company)) Group, working on RPA and on the development of a chatbot.
 
@@ -20,7 +20,7 @@ You can find my **CV** (last updated on 2019/7/30) [here](/cv.pdf). If you want 
 
 ### Work Experience
 
-##### Blue Reply - **RPA Intern**, 2018-11 -> 2019-03
+##### Blue Reply - **Intern**, 2018-11 -> 2019-03
 
 Reply is one of the top IT consulting groups in Italy, with a 1b+ € revenue in 2018. I have interned at Blue Reply, Reply's company that offers IBM based solution.
 Having been assigned an **R&D** task, I have been the ﬁrst in the ﬁrm to work on **Robotic Process Automation** and Intelligent Process Automation. I have worked with Automation Anywhere and Python library Automagica.
