@@ -16,7 +16,7 @@ I have been Executive Board member at [**JEToP**](https://jetop.com), the Polyte
 
 I am a **research** enthusiast and my goal is to become an **ML Research Scientist**, after pursuing a Ph.D. in Computer Science, focusing on security and privacy in ML. I am also swimming, sailing, and travel addicted. I like to call myself a *beta tester*.
 
-You can find my **CV** (last updated on 2019/7/30) [here](/cv.pdf). If you want to get in touch with me, use the form [below](/about/#form-contact).
+You can find my **CV** (last updated on 2019/8/26) [here](/cv.pdf). If you want to get in touch with me, use the form [below](/about/#form-contact).
 
 ### Work Experience
 
