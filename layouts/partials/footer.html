@@ -1,6 +1,0 @@
-<footer class="footer">
-  <section class="container">
-    {{ if not .Site.Params.hideCopyright }} © 2019 - {{.Site.Params.copyrightName | markdownify }} {{ end }} {{ if not .Site.Params.hideCredits}} {{ if not .Site.Params.hideCopyright }} · {{ end }} Powered by <a href="https://gohugo.io/">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/">Coder</a>. {{ end }}
-    {{ with .Site.Params.footerEmail }}- {{ . }}{{ end }}
-  </section>
-</footer>
