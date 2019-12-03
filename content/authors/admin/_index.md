@@ -27,14 +27,14 @@ interests:
 
 education:
   courses:
-  - course: M.Sc. in Computer Science
-    institution: Swiss Federal Institute of Technology, Lausanne (EPFL)
-    year: 2019-
-  - course: B.Sc. in Computer Engineering
-    institution: Turin Polytechic University
+  - course: M.Sc. in Computer Science 🇨🇭
+    institution: Swiss Federal Institute of Technology, Lausanne (EPFL), Switzerland
+    year: 2019-2021 (exp.)
+  - course: B.Sc. in Computer Engineering 🇮🇹
+    institution: Turin Polytechic University, Italy
     year: 2016-2019
-  - course: Exchange Year
-    institution: Tongji University, Shanghai (China)
+  - course: Exchange Year 🇨🇳
+    institution: Tongji University, Shanghai, China
     year: 2017-2018
 
 # Social/Academic Networking
@@ -73,10 +73,10 @@ user_groups:
 - Visitors
 ---
 
-I am a Computer Science M.Sc. student at **École polytechnique fédérale de Lausanne**, willing to focus my studies on **Machine Learning and Security**. I earned a Computer Engineering B.Sc. at the **Polytechnic University of Turin**, after spending my sophomore year as an exchange student at Tongji University (**同济大学**) in Shanghai, as winner of the PoliTong scholarship.
+I am a Computer Science M.Sc. student at **École polytechnique fédérale de Lausanne**, with a strong focus on **Machine Learning and Security**. I earned a Computer Engineering B.Sc. at the **Polytechnic University of Turin**, after spending my sophomore year as an exchange student at Tongji University (**同济大学**) in Shanghai, supported by PoliTong scholarship.
 
 I interned at the IT Consulting firm Blue Reply, part of **Reply Group**, working on **RPA** and on the development of a **chatbot**.
 
-I am highly curiosity-driven and my goal is to become an **ML Research Scientist**, after pursuing a Ph.D. in Computer Science, focusing on Security and Privacy in ML.
+I am highly curiosity-driven and my goal is to become an **ML Research Scientist**, after pursuing a Ph.D. in Computer Science.
 
 I am also swimming, sailing, and travel addicted. I like to call myself a *beta tester*.

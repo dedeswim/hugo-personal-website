@@ -26,6 +26,6 @@ date_format = "2006"
   certificate_url = ""
   date_start = "2017-07-01"
   date_end = ""
-  description = "Awarded to 11 out of 35 students that participated in the selection. Fullscholarship for the one-year exchange in Shanghai."
+  description = "Awarded to 11 out of 35 students that participated in the selection. Full scholarship for the one-year exchange in Shanghai."
 
 +++
