@@ -24,7 +24,7 @@ after_success:
   - git push "https://${GITHUB_TOKEN}@${GH_REPO}" master
 
 install:
-    - snap install hugo
+    - sudo snap install hugo
 
 script:
     - hugo -s ./
