@@ -79,4 +79,6 @@ I interned at the IT Consulting firm Blue Reply, part of **Reply Group**, workin
 
 I am highly curiosity-driven and my goal is to become an **ML Research Scientist**, after pursuing a Ph.D. in Computer Science.
 
+I attended **Military Navy College** "F. Morosini", in Venice. There, I lead sophomores as **prefect** during my final year, and I received **military training** aboard Italian Navy's units and at Italian Navy's Marine Corps.
+
 I am also swimming, sailing, and travel addicted. I like to call myself a *beta tester*.
