@@ -4,7 +4,7 @@ name: Edoardo Debenedetti
 
 # Username (this should match the folder name)
 authors:
-- admin
+- edoardo
 
 # Is this the primary user of the site?
 superuser: true
@@ -73,7 +73,7 @@ user_groups:
 - Visitors
 ---
 
-I am a Computer Science M.Sc. student at **École polytechnique fédérale de Lausanne**, with a strong focus on **Machine Learning and Security**. I earned a Computer Engineering B.Sc. at the **Polytechnic University of Turin**, after spending my sophomore year as an exchange student at Tongji University (**同济大学**) in Shanghai, supported by PoliTong scholarship.
+[Hello there](https://knowyourmeme.com/memes/hello-there)! I am **Edoardo**, a **Computer Science M.Sc.** student at **École polytechnique fédérale de Lausanne**, with a strong focus on **Machine Learning and Security**. I earned a Computer Engineering B.Sc. at the **Polytechnic University of Turin**, after spending my sophomore year as an exchange student at Tongji University (**同济大学**) in Shanghai, supported by PoliTong scholarship.
 
 I interned at the IT Consulting firm Blue Reply, part of **Reply Group**, working on **RPA** and on the development of a **chatbot**.
 
