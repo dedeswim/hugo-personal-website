@@ -28,10 +28,10 @@ interests:
 education:
   courses:
   - course: M.Sc. in Computer Science 🇨🇭
-    institution: Swiss Federal Institute of Technology, Lausanne (EPFL), Switzerland
+    institution: EPFL - Swiss Federal Institute of Technology, Lausanne, Switzerland
     year: 2019-2021 (exp.)
   - course: B.Sc. in Computer Engineering 🇮🇹
-    institution: Turin Polytechic University, Italy
+    institution: PoliTo - Turin Polytechic University, Italy
     year: 2016-2019
   - course: Exchange Year 🇨🇳
     institution: Tongji University, Shanghai, China
@@ -73,12 +73,12 @@ user_groups:
 - Visitors
 ---
 
-[Hello there](https://knowyourmeme.com/memes/hello-there)! I am **Edoardo**, a **Computer Science M.Sc.** student at **École polytechnique fédérale de Lausanne**, with a strong focus on **Machine Learning and Security**. I earned a Computer Engineering B.Sc. at the **Polytechnic University of Turin**, after spending my sophomore year as an exchange student at Tongji University (**同济大学**) in Shanghai, supported by PoliTong scholarship.
+[Hello there](https://knowyourmeme.com/memes/hello-there)! I am **Edoardo**, a **Computer Science M.Sc.** student at [**EPFL**](https://epfl.ch/en), with a strong focus on **Machine Learning and Security**. I earned a Computer Engineering B.Sc. at [**PoliTo**](https://www.polito.it/), after spending my sophomore year as an exchange student at [Tongji University (**同济大学**)](https://en.tongji.edu.cn/) in Shanghai, supported by [PoliTong](https://www.polito.it/international/offerta/percorsi/politong/index.php?lang=en) scholarship.
 
 I interned at the IT Consulting firm Blue Reply, part of **Reply Group**, working on **RPA** and on the development of a **chatbot**.
 
 I am highly curiosity-driven and my goal is to become an **ML Research Scientist**, after pursuing a Ph.D. in Computer Science.
 
-I attended **Military Navy College** "F. Morosini", in Venice. There, I lead sophomores as **prefect** during my final year, and I received **military training** aboard Italian Navy's units and at Italian Navy's Marine Corps.
+I attended [**Military Navy College** "F. Morosini"](http://www.marina.difesa.it/EN/training_institute/morosini/Pagine/default.aspx), in Venice. There, I lead sophomores as **prefect** during my final year, and I received **military training** aboard Italian Navy's units and at Italian Navy's Marine Corps.
 
 I am also swimming, sailing, and travel addicted. I like to call myself a *beta tester*.
