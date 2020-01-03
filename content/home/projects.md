@@ -28,6 +28,10 @@ subtitle = "(so far)"
   [[content.filter_button]]
     name = "Machine Learning"
     tag = "Machine Learning"
+
+  [[content.filter_button]]
+    name = "Data Analysis"
+    tag = "Data Analysis"
   
   [[content.filter_button]]
     name = "Software"

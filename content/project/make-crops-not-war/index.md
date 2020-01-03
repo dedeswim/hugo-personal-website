@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Subspace Attack Reproduction"
-summary: "Attempt to reproduce the results obtained in the NeurIPS 2019 paper [Subspace Attack: Exploiting Promising Subspaces for Query-Efficient Black-box Attacks](https://papers.nips.cc/paper/8638-subspace-attack-exploiting-promising-subspaces-for-query-efficient-black-box-attacks)"
+title: "Make Crops, Not War!"
+summary: "Data-driven analysis about how war affects crop production. Done as project for the ADA course at EPFL."
 authors: []
-tags: ["Machine Learning"]
+tags: ["Data Analysis"]
 categories: []
-date: 2019-12-02T22:55:24+01:00
+date: 2020-01-03T11:31:07+01:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://pull-fiction.github.io/make-crops-not-war/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -27,8 +27,8 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: "https://github.com/epfl-ml-reproducers/subspace-attack-reproduction"
-url_pdf: "https://openreview.net/forum?id=3Jxp81KAS3"
+url_code: "https://github.com/pull-fiction/make-crops-not-war"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
