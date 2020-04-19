@@ -9,7 +9,7 @@ categories: []
 date: 2019-12-02T22:55:24+01:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "/publication/subspace-attack-reproduction"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -21,14 +21,14 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: OpenReview
+  url: "https://openreview.net/forum?id=3Jxp81KAS3"
+  icon_pack: fab
+  icon:
 
 url_code: "https://github.com/epfl-ml-reproducers/subspace-attack-reproduction"
-url_pdf: "https://openreview.net/forum?id=3Jxp81KAS3"
+url_pdf: "https://github.com/epfl-ml-reproducers/subspace-attack-reproduction/blob/master/neurips_report.pdf"
 url_slides: ""
 url_video: ""
 
