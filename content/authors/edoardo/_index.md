@@ -73,7 +73,7 @@ user_groups:
 - Visitors
 ---
 
-[Hello there](https://knowyourmeme.com/memes/hello-there)! I am **Edoardo**, a **Computer Science M.Sc.** student at [**EPFL**](https://epfl.ch/en), with a strong focus on **Machine Learning and Security**. I earned a Computer Engineering B.Sc. at [**PoliTo**](https://www.polito.it/), after spending my sophomore year as an exchange student at [Tongji University (**同济大学**)](https://en.tongji.edu.cn/) in Shanghai, supported by [PoliTong](https://www.polito.it/international/offerta/percorsi/politong/index.php?lang=en) scholarship.
+[Hello there](https://knowyourmeme.com/memes/hello-there)! I am **Edoardo**, a **Computer Science M.Sc.** student at [**EPFL**](https://epfl.ch/en), with a strong focus on **Machine Learning and Security**. I earned a Computer Engineering B.Sc. at [**PoliTo**](https://www.polito.it/), after spending my sophomore year as an exchange student at [Tongji University (**同济大学**)](https://en.tongji.edu.cn/) in Shanghai, supported by [PoliTong](https://www.polito.it/international/partnership/politecnico_nel_mondo/politong/index.php?lang=en) scholarship.
 
 I am currently working on a **research project** about **deepfakes counteraction** with **[Prof. Troncoso](http://carmelatroncoso.com/)** at EPFL's [SPRING Lab](https://www.epfl.ch/labs/spring/).
 
