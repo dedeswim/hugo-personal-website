@@ -26,6 +26,7 @@ after_success:
 install:
   - sudo snap install hugo
   - sudo snap install --classic go
+  - export PATH=$PATH:/usr/local/go/bin
 
 script:
   - hugo mod get -u
