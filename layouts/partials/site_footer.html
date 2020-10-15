@@ -1,9 +1,9 @@
 <footer class="site-footer">
   {{ if or (site.GetPage "terms.md") (site.GetPage "privacy.md") }}
   <p class="powered-by">
-    {{ with site.GetPage "privacy.md" }}
+    <!-- {{ with site.GetPage "privacy.md" }}
       {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
-    {{ end }}
+    {{ end }} -->
     {{ with site.GetPage "terms.md" }}
       {{ if site.GetPage "privacy.md" }} &middot; {{ end }}
       {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
@@ -15,8 +15,8 @@
     {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} &middot; {{ end }}
 
     Powered by the
-    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
-    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>, kindly hosted by <a href="https://github.io" target="_blank" rel="noopener">GitHub Pages</a>, deployed with <a href="https://travis-ci.org" target="_blank" rel="noopener">TravisCI</a>.
+    <a href="https://wowchemy.com/" target="_blank" rel="noopener">Wowchemy theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>, kindly hosted by <a href="https://github.io" target="_blank" rel="noopener">GitHub Pages</a>, deployed with GitHub Actions.
 
     {{ if not (in (slice "docs" "updates") .Type) }}
     <span class="float-right" aria-hidden="true">
